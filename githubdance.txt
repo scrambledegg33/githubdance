@@ -1,4 +1,5 @@
 move right
 move left
+jump up and down
 shake dat ass
 move back
